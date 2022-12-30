@@ -1,0 +1,16 @@
+body{
+    background-image: url('hhh.jpg');
+
+    background-size: cover;
+}
+input{
+    width: 500px;
+    border-radius: 30px;
+    border:3px solid black;
+}
+canvas{
+    background-color: aliceblue;
+    box-shadow: 10px 10px 40px green;
+    border:10px solid yellow;
+    border-radius: 30px;
+}
